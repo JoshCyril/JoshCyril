@@ -10,5 +10,5 @@ You can click the Preview link to take a look at your changes.
 --->
 <br>
 <p align="center">
-   <img src="https://komarev.com/ghpvc/?username=JPC8&color=blue" alt=counter/>
+   <img src="https://visitor-badge.glitch.me/badge?page_id=jpc8.visitor-badge" alt=counter/>
 </p>
