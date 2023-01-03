@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Josh Cyril</h1>
 <h3 align="center">A passionate Analyst</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joshcyril&label=Profile%20views&color=0e75b6&style=flat" alt="joshcyril" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshcyril" alt="joshcyril" /></a> </p>
 
@@ -13,7 +12,6 @@
 
 - 📫 How to reach me **joshua.cyril88@gmail.com**
 
-- 📄 Know about my experiences [https://JoshCyril.com](https://JoshCyril.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
