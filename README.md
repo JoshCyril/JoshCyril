@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Analyst</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshcyril" alt="joshcyril" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joshcyril" alt="joshcyril" /></a> </p> -->
 
 - 🌱 I’m currently learning **VBA, Full-stack, Web 3.0**
 
