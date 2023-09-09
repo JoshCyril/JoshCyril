@@ -50,7 +50,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/joshCyril/joshCyril/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/JoshCyril/JoshCyril/output/snake.svg" alt="Snake animation" />
 
 ###
 
