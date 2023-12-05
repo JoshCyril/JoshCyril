@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌱 Learning Web3, Blockchain, NFTs<br><br>    💬 Ask me about VBA macros, angular, react, UI/UX, node.js, api, NTF, web3<br><br>    📫 How to reach me JoshCyril@Proton.me</p>
+<p align="left">🌱 Learning Web3, Blockchain, NFTs<br><br>    💬 Ask me about VBA macros, angular, react, UI/UX, node.js, api, NFT, web3<br><br>    📫 How to reach me JoshCyril@Proton.me</p>
 
 ###
 
