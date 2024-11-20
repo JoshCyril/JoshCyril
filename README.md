@@ -11,7 +11,7 @@ Bold Creativity in Every Pixel
 *   ✉️  You can contact me at [joshcyril@Proton.me](mailto:joshcyril@Proton.me)
 *   🧠  I'm learning Full Stack, Blockchain, Web3, NFTs
 *   🤝  I'm open to collaborating on SaaS, Web3
-*   ⚡  I'm a student at Swansea University studying Blockchain
+*   ⚡  I'm a graduate from Swansea University in Blockchain
   
 ### Skills 
 
