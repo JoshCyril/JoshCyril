@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Cyril
 ====================================================================================================================================
 
-Student, Web developer
+Blockchain developer | Master's in Advanced Computer Science | Analyst
 ----------------------
 
 Bold Creativity in Every Pixel
 
 *   🌍  I'm based in Wales, UK
 *   🖥️  See my portfolio at [JoshCyril.com](http://joshcyril.com)
-*   ✉️  You can contact me at [joshcyril@Proton.me](mailto:joshcyril@Proton.me)
+*   ✉️  You can contact me at [JoshCyril@Proton.me](mailto:joshcyril@Proton.me)
 *   🧠  I'm learning Full Stack, Blockchain, Web3, NFTs
 *   🤝  I'm open to collaborating on SaaS, Web3
 *   ⚡  I'm a graduate from Swansea University in Blockchain
