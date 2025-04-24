@@ -6,7 +6,6 @@ Blockchain developer | Master's in Advanced Computer Science | Analyst
 
 Bold Creativity in Every Pixel
 
-*   🌍  I'm based in Wales, UK
 *   🖥️  See my portfolio at [JoshCyril.com](http://joshcyril.com)
 *   ✉️  You can contact me at [JoshCyril@Proton.me](mailto:joshcyril@Proton.me)
 *   🧠  I'm learning Full Stack, Blockchain, Web3, NFTs
