@@ -1,7 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joshua Cyril
 ====================================================================================================================================
-
-Blockchain developer | Master's in Advanced Computer Science | Analyst
+Associate @ AcuityKP | Master's in Advanced Computer Science
 ----------------------
 
 Bold Creativity in Every Pixel
@@ -46,8 +45,8 @@ Bold Creativity in Every Pixel
   </a>
   </p>
   
+<!--
 ### Badges
-  
   <b>My GitHub Stats</b>
   
   <table>
@@ -66,3 +65,5 @@ Bold Creativity in Every Pixel
   <a href="https://www.buymeacoffee.com/joshcyril">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/>
   </a>
+  -->
+  
